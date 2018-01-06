@@ -41,6 +41,7 @@ or
 
 ```bash
 cd pixiewps*/
+cd src/
 make
 ```
 Optionally, you can run `make OPENSSL=1` to use faster OpenSSL SHA-256 functions.
